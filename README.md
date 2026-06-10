@@ -153,7 +153,7 @@ See the LICENSE file for details.
 
 ## Author
 
-**Fahad Mainuddin**
+**Tanim Ahammed**
 
 Open Source Software Course
 
